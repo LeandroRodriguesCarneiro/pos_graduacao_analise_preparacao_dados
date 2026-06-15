@@ -22,6 +22,3 @@ powershell
 ```
     pip install -r requirements.txt
 ```
-
-# Iniciando uma modificação simples
-subindo uma modicação do repositório local
